@@ -46,7 +46,7 @@ This project transforms the Raspberry Pi 4B into a **touchscreen smart kiosk** w
 
 ## 🖼️ Gallery
 
-*(Add images here when available)*
+![Smart Kiosk Tablet Side View](https://github.com/jhherre3/Raspberrypi4b/blob/main/Files/Rpiassemble.png)
 
 ---
 
