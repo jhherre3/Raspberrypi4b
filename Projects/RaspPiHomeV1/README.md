@@ -7,7 +7,8 @@ Inspired by smart hubs like the Google Nest Hub and Alexa Show, this device comb
 
 ## 📸 Project Overview
 
-![Smart Kiosk Tablet GPIO Diagram](Files/ripihomev1side.jpg)
+![Smart Kiosk Tablet Side View](Files/ripihomev1side.jpg)
+
 
 This project transforms the Raspberry Pi 4B into a **touchscreen smart kiosk** with:
 - Dual **onboard speakers**
